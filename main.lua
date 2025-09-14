@@ -1,1 +1,1 @@
-ShaguTweaks.provider = "|cffFFCC55Template:|r"
+ShaguTweaks.provider = "|cffFFCC55plus:|r"
