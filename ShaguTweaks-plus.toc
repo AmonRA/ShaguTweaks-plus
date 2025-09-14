@@ -20,4 +20,4 @@ locales\translations_zhTW.lua
 main.lua
 
 # general
-mods\combat-tooltip.lua
+mods\hide-combat-tooltip.lua
