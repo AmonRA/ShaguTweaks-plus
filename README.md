@@ -1,7 +1,6 @@
-# ShaguTweaks-extras
+# ShaguTweaks-plus
 
 This addon extends the capabilities of [ShaguTweaks](https://github.com/shagu/ShaguTweaks) by offering optional modules that can be easily toggled on or off. The new features integrate fully with the "Advanced Options" panel, providing a seamless experience.
-
 For a detailed view of what's new and improved, check out the feature list below.
 
 
@@ -13,9 +12,9 @@ For a detailed view of what's new and improved, check out the feature list below
 >
 > Install instructions for ShaguTweaks can be found on the [GitHub Page](https://github.com/shagu/ShaguTweaks).
 
-1. Download **[Latest Version](https://github.com/shagu/ShaguTweaks-extras/archive/master.zip)**
+1. Download **[Latest Version](https://github.com/AmonRA/ShaguTweaks-plus/archive/master.zip)**
 2. Unpack the Zip file
-3. Rename the folder "ShaguTweaks-extras-master" to "ShaguTweaks-extras"
+3. Rename the folder "ShaguTweaks-plus-master" to "ShaguTweaks-plus"
 4. Copy "ShaguTweaks-extras" into Wow-Directory\Interface\AddOns
 5. Restart Wow
 
@@ -23,92 +22,57 @@ For a detailed view of what's new and improved, check out the feature list below
 ## Features
 
 ### Action Bar
-- **Center Vertical Actionbar**  
-  *Center the vertical actionbar on the right side.*
+- **Gryphons in Front**    
+*Puts the gryphons in front of the action buttons.*
 
-- **Dragonflight Gryphons**  
-  *Replaces actionbar gryphons with the dragonflight version.*
+- **Hide Hotkey Text**    
+*Hides the hotkeys on the action bars.*
 
-- **Floating Actionbar**  
-  *Removes all background textures and lets the actionbar float.*
+- **Hide Macro Text**    
+*Hides the macros on the action bars.*
 
-- **Reagent Counter**  
-  *Shows a reagent counter on action buttons.*
+- **Range Color**    
+*Action buttons will be colored red when out of range.*
 
-- **Show Bags**  
-  *Shows bag and keyring buttons when using the reduced actionbar layout. Hold Ctrl+Shift to move the bag bar.*
+- **Buffs to Actionbars**
+*Attaches the buffs to the actionbar. (Debuffs should be still in the same spot.)*
 
-- **Show Micro Menu**  
-  *Shows micro menu buttons when using the reduced actionbar layout. Hold Ctrl+Shift to move the micro menu.*
+### Social & Chat
+- **Accept Group Invites**    
+*Accept group invites from friends and guildies.*
 
-<p align="center"><img src="screenshots/actionbar.gif"></p>
+- **Block NPC Spam**    
+*Blocks spam messages from NPCs.*
 
-### Chat
-- **Chat History**  
-  *Save chat history of all non-combatlog windows and restore it on login.*
+- **Block TWOW Guild Spam**    
+*Blocks guild joining & leaving messages for Turtle WoW starter guilds.*
 
-- **Chat Timestamps**  
-  *Add timestamps to chat messages.*
+- **World Chat Hider**    
+*Looks for world chat in the chat frames and hides it while in an instance.*
 
-- **Center Text Input Box**  
-  *Move the chat input box to the center of the screen.*
+### Tooltip & Items
+- **Hide Combat Tooltip**    
+*Hides the tooltip while in combat. While in combat, holding shift will show the tooltip.*
 
-- **Enable Text Shadow**  
-  *Enable text shadow in all chat frames.*
+- **Cursor Tooltip**    
+*Attaches the tooltip to the cursor.*
 
+- **Free Slots Count**    
+*Adds a free slots count to the backpack button.
 
-### General
-- **Bag Item Click**  
-  *Send items to trade window or auction house search via right click.*
+### World & MiniMap
+- **MiniMap Framerate & Latency**    
+*Adds a small framerate & latency display to the mini map.*
 
-- **Bag Search Bar**  
-  *Adds a search field to the bag which allows you to search bag, keyring and bank slots.*
+- **MiniMap Timer**    
+*Adds a togglable timer to the minimap clock.*    
+*Left click the clock to toggle the timer, left click the timer to start/pause or right click to reset.*    
+*Hold Ctrl & Shift then drag to move, hold Ctrl & Shift then right click to reset position.*
 
-- **Show Energy Ticks**  
-  *Show energy and mana ticks on the player unit frame.*
+### Unit Frames
+- **Movable Unitframes Extended**    
+*Party frames, Minimap, Buffs, Weapon Buffs and Debuffs can be moved while Shift and Ctrl are pressed together. Drag the first (end) buff or debuff to move.*   
 
-- **Reveal World Map**  
-  *Reveals unexplored world map areas and shows exploration hints.*
-
-
-### Macro
-- **Macro Icons**  
-  *Detect showtooltip and spells in macros to use them on action buttons.*
-
-- **Macro Tweaks**  
-  *Add /equip command to macros, remove #showtooltip from chat and hide macro commands from history.*
-
-
-### Raid
-<img src="screenshots/raid.jpg" float="right" align="right" width="33%">
-
-- **Enable Raid Frames**  
-  *Very simple raid frames with only the most basic features.*
-
-- **Hide Party Frames**  
-  *Disable default party frames while the raidframes are active.*
-
-- **Show Aggro Indicators**  
-  *Show indicators on raid members that are currently attacked by other units. (This only works if the unit is a target of a raid member)*
-
-- **Show Combat Feedback**  
-  *Show combat feedback numbers on health bars.*
-
-- **Show Dispel Indicators**  
-  *Show indicators for units affected by curse, magic, poison or diseases based on your class.*
-
-- **Show Group Headers**  
-  *Display group headers on raid frames*
-
-- **Show Healing Predictions**  
-  *Show healing predictions that are received in a healcomm compatible protocol.*
-
-- **Use As Party Frames**  
-  *Use raid frames to display party members in regular groups*
-
-- **Use Compact Layout**  
-  *Reduces the raid frame size and the displayed elements. As a healer, you should never use this layout.*
-
-
-## Contact & Support
-Due to time constraints, I am currently unable to process feature requests. However, if you encounter any bugs or issues, please don't hesitate to reach out to me through Discord.
+## Credit
+Credit to [shagu](https://github.com/shagu)   
+Credit to [Grylls](https://github.com/GryllsAddons)  
