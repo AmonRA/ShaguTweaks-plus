@@ -22,56 +22,57 @@ For a detailed view of what's new and improved, check out the feature list below
 ## Features
 
 ### Action Bar
-- **Gryphons in Front**
+- **Gryphons in Front**  
   *Puts the gryphons in front of the action buttons.*
 
-- **Hide Hotkey Text**
+- **Hide Hotkey Text**  
   *Hides the hotkeys on the action bars.*
 
-- **Hide Macro Text**
+- **Hide Macro Text**  
   *Hides the macros on the action bars.*
 
-- **Buffs to Actionbars**
+- **Buffs to Actionbars**  
   *Attaches the buffs to the actionbar. Debuffs should be still in the same spot.*
 
-- **Range Color**
+- **Range Color**  
   *Action buttons will be colored red when out of range.*
 
 ### Social & Chat
-- **Accept Group Invites**
+- **Accept Group Invites**  
   *Accept group invites from friends and guildies.*
 
-- **Block NPC Spam**
+- **Block NPC Spam**  
   *Blocks spam messages from NPCs.*
 
-- **Block TWOW Guild Spam**
+- **Block TWOW Guild Spam**  
   *Blocks guild joining & leaving messages for Turtle WoW starter guilds.*
 
-- **World Chat Hider**
+- **World Chat Hider**  
   *Looks for world chat in the chat frames and hides it while in an instance.*
 
 ### Tooltip & Items
-- **Hide Combat Tooltip**
+- **Hide Combat Tooltip**  
   *Hides the tooltip while in combat. While in combat, holding shift will show the tooltip.*
 
-- **Cursor Tooltip**
+- **Cursor Tooltip**  
   *Attaches the tooltip to the cursor.*
 
-- **Free Slots Count**
+- **Free Slots Count**  
   *Adds a free slots count to the backpack button.*
 
 ### World & MiniMap
-- **MiniMap Framerate & Latency**
+- **MiniMap Framerate & Latency**  
   *Adds a small framerate & latency display to the mini map.*
 
-- **MiniMap Timer**
-  *Adds a togglable timer to the minimap clock.*
-  *Left click the clock to toggle the timer, left click the timer to start/pause or right click to reset.*
+- **MiniMap Timer**  
+  *Adds a togglable timer to the minimap clock.*  
+  *Left click the clock to toggle the timer, left click the timer to start/pause or right click to reset.*  
   *Hold Ctrl & Shift then drag to move, hold Ctrl & Shift then right click to reset position.*
 
 ### Unit Frames
-- **Movable Unitframes Extended**
+- **Movable Unitframes Extended**  
   *Party frames, Minimap, Buffs, Weapon Buffs and Debuffs can be moved while Shift and Ctrl are pressed together. Drag the first (end) buff or debuff to move.*
 
 ## Credit
 Credit to [shagu](https://github.com/shagu) and [Grylls](https://github.com/GryllsAddons)
+
