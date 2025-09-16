@@ -71,9 +71,11 @@ For a detailed view of what's new and improved, check out the feature list below
 
 ### Unit Frames
 - **Movable Unitframes Extended**  
-  *Party frames, Minimap, Buffs, Weapon Buffs and Debuffs can be moved while Shift and Ctrl are pressed together. Drag the first buff or debuff to move.*
+  *Party frames, Minimap, Buffs, Weapon Buffs and Debuffs can be moved while Shift and Ctrl are pressed together.*  
+  *Drag the first buff or debuff to move.*
 
 ## Credit
 Credit to [shagu](https://github.com/shagu) and [Grylls](https://github.com/GryllsAddons)
+
 
 
