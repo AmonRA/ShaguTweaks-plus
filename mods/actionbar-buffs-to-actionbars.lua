@@ -1,0 +1,31 @@
+local _G = ShaguTweaks.GetGlobalEnv()
+local T = ShaguTweaks.T
+
+local module = ShaguTweaks:register({
+    title = T["Buffs to Actionbars"],
+    description = T["Attach playerbuffs to the Actionbars."],
+    expansions = { ["vanilla"] = true, ["tbc"] = false },
+    category = T["Action Bar"],
+    enabled = nil,
+})
+
+
+module.enable = function(self)
+
+local hookUIParent_ManageFramePositions = UIParent_ManageFramePositions
+  UIParent_ManageFramePositions = function(a1, a2, a3)
+    -- run original function
+    hookUIParent_ManageFramePositions(a1, a2, a3)
+
+
+    BuffButton0:ClearAllPoints()
+    local offset = 0
+    local anchor = ActionButton1
+    anchor = MultiBarBottomLeft:IsVisible() and MultiBarBottomLeft or anchor
+    anchor = MultiBarBottomRight:IsVisible() and MultiBarBottomRight or anchor
+	local pet_offset = PetActionBarFrame:IsVisible() and 40 or 0
+    offset = anchor == ActionButton1 and ( MainMenuExpBar:IsVisible() or ReputationWatchBar:IsVisible() ) and 6 or 0
+    offset = anchor == ActionButton1 and offset + 6 or offset
+    BuffButton0:SetPoint("BOTTOMLEFT", anchor, "TOPLEFT", 453, 4 + pet_offset)
+	end
+end
