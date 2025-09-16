@@ -31,11 +31,11 @@ For a detailed view of what's new and improved, check out the feature list below
 - **Hide Macro Text**    
 *Hides the macros on the action bars.*
 
-- **Range Color**    
-*Action buttons will be colored red when out of range.*
-
 - **Buffs to Actionbars**
 *Attaches the buffs to the actionbar. Debuffs should be still in the same spot.*
+
+- **Range Color**    
+*Action buttons will be colored red when out of range.*
 
 ### Social & Chat
 - **Accept Group Invites**    
@@ -77,4 +77,5 @@ For a detailed view of what's new and improved, check out the feature list below
 Credit to [shagu](https://github.com/shagu)   
 
 Credit to [Grylls](https://github.com/GryllsAddons)  
+
 
