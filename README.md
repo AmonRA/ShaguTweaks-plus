@@ -61,13 +61,20 @@ For a detailed view of what's new and improved, check out the feature list below
   *Party frames, Minimap, Buffs, Weapon Buffs and Debuffs can be moved while Shift and Ctrl are pressed together.*  
   *Drag the first buff or debuff to move.*
 
+- **Unit Frame Combat Indicator**  
+  *Adds a combat indicator to the target and party frames.*  
+
 ### Buffs & Debuffs
-- **Buff Timers: Smart Format**  
+- **Smart Timers**  
   *Pads hours/minutes, hides zero units, shows seconds under 1 minute, flashes under 10s, and adds color gradients.*  
   
 ### Micromenu Bar
 - **Everlook Broadcasting**  
-  *Left-click the Game Menu button to open Everlook Broadcasting Co. Right-click opens the original Game Menu. Auto-closes after 10 seconds.*  
+  *Right-click the Game Menu button to open TWOW's Everlook Broadcasting Co. Auto-closes after 10 seconds.* 
+
+- **Concealable Micromenu**  
+  *Hold Ctrl & Shift to move from left/right edge, press arrow to conceal. Only works when when Shagu's Reduced actionbar module is enabled* 
+
 
 ## Credit
 Credit to [shagu](https://github.com/shagu) and [Grylls](https://github.com/GryllsAddons)
