@@ -37,19 +37,6 @@ For a detailed view of what's new and improved, check out the feature list below
 - **Range Color**  
   *Action buttons will be colored red when out of range.*
 
-### Social & Chat
-- **Accept Group Invites**  
-  *Accept group invites from friends and guildies.*
-
-- **Block NPC Spam**  
-  *Blocks spam messages from NPCs.*
-
-- **Block TWOW Guild Spam**  
-  *Blocks guild joining & leaving messages for Turtle WoW starter guilds.*
-
-- **World Chat Hider**  
-  *Looks for world chat in the chat frames and hides it while in an instance.*
-
 ### Tooltip & Items
 - **Hide Combat Tooltip**  
   *Hides the tooltip while in combat. While in combat, holding shift will show the tooltip.*
@@ -73,6 +60,14 @@ For a detailed view of what's new and improved, check out the feature list below
 - **Movable Unitframes Extended**  
   *Party frames, Minimap, Buffs, Weapon Buffs and Debuffs can be moved while Shift and Ctrl are pressed together.*  
   *Drag the first buff or debuff to move.*
+
+### Buffs & Debuffs
+- **Buff Timers: Smart Format**  
+  *Pads hours/minutes, hides zero units, shows seconds under 1 minute, flashes under 10s, and adds color gradients.*  
+  
+### Micromenu Bar
+- **Everlook Broadcasting**  
+  *Left-click the Game Menu button to open Everlook Broadcasting Co. Right-click opens the original Game Menu. Auto-closes after 10 seconds.*  
 
 ## Credit
 Credit to [shagu](https://github.com/shagu) and [Grylls](https://github.com/GryllsAddons)

@@ -3,7 +3,7 @@
 ## Author: AmonRA
 ## Notes: A collection of tweaks and enhancements to the Default UI
 ## Notes-ruRU: Коллекция настроек и улучшений для стандартного пользовательского интерфейса.
-## Version: GIT
+## Version: 1.0
 ## Dependencies: ShaguTweaks
 
 # translations
@@ -27,10 +27,10 @@ mods\actionbar-range-color.lua
 mods\actionbar-buffs-to-actionbars.lua
 
 # Social & Chat
-mods\socialchat-accept-invites.lua
-mods\socialchat-guildspam.lua
-mods\socialchat-npcspam.lua
-mods\socialchat-hide-world-chat.lua
+# mods\socialchat-accept-invites.lua
+# mods\socialchat-guildspam.lua
+# mods\socialchat-npcspam.lua
+# mods\socialchat-hide-world-chat.lua
 
 # Tooltip & Items
 mods\tooltipitems-hide-combat-tooltip.lua
@@ -43,3 +43,9 @@ mods\minimap-timer.lua
 
 # Unit Frames
 mods\unitframes-move-unitframes-extended.lua
+
+# Buffs & Debuffs
+mods\bufftime.lua
+
+# Micromenu Bar
+mods\micromenu-everlook.lua
