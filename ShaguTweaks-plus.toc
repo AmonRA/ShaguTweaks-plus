@@ -3,7 +3,7 @@
 ## Author: AmonRA
 ## Notes: A collection of tweaks and enhancements to the Default UI
 ## Notes-ruRU: Коллекция настроек и улучшений для стандартного пользовательского интерфейса.
-## Version: 1.0
+## Version: 1.0.1
 ## Dependencies: ShaguTweaks
 
 # translations
@@ -45,7 +45,10 @@ mods\minimap-timer.lua
 mods\unitframes-move-unitframes-extended.lua
 
 # Buffs & Debuffs
-mods\bufftime.lua
+mods\buffs-timers.lua
 
 # Micromenu Bar
-mods\micromenu-everlook.lua
+mods\micromenubar-concealed.lua
+mods\micromenubar-everlook.lua
+mods\unitframes-combat-indicator.lua
+
