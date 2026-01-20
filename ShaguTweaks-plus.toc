@@ -28,7 +28,6 @@ mods\buffs-timers.lua
 
 # Unit Frames
 mods\unitframes-move-unitframes-extended.lua
-mods\unitframes-combat-indicator.lua
 
 # Action Bar
 mods\actionbar-front-gryphons.lua

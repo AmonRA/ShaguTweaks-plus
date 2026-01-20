@@ -242,7 +242,7 @@ module.enable = function(self)
   events:SetScript("OnEvent", function()
     if this.loaded then return end
     this.loaded = true
-  
+    
     setupHolder()
     setupToggle()
     setupRightHandle()

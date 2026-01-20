@@ -65,6 +65,7 @@ module.enable = function(self)
   _G.BuffFrame_UpdateDuration = function(buffButton, timeLeft)
 
     local duration = _G.getglobal(buffButton:GetName().."Duration")
+    if not duration then return end
 
     if _G.SHOW_BUFF_DURATIONS ~= "1" or not timeLeft then
       duration:Hide()

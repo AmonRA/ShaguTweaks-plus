@@ -37,9 +37,6 @@ For a detailed view of what's new and improved, check out the feature list below
   *Party frames, Minimap, Buffs, Weapon Buffs and Debuffs can be moved while Shift and Ctrl are pressed together.*  
   *Drag the first buff or debuff to move.*
 
-- **Unit Frame Combat Indicator**  
-  *Adds a combat indicator to the target and party frames.*  
-
 ### Action Bar
 - **Gryphons in Front**  
   *Puts the gryphons in front of the action buttons.*
