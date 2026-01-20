@@ -3,7 +3,7 @@
 ## Author: AmonRA
 ## Notes: A collection of tweaks and enhancements to the Default UI
 ## Notes-ruRU: Коллекция настроек и улучшений для стандартного пользовательского интерфейса.
-## Version: 1.0.2
+## Version: 1.0.3
 ## Dependencies: ShaguTweaks
 
 # translations
@@ -51,3 +51,4 @@ mods\minimap-timer.lua
 # mods\socialchat-guildspam.lua
 # mods\socialchat-npcspam.lua
 # mods\socialchat-hide-world-chat.lua
+
