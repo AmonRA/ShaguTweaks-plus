@@ -31,7 +31,7 @@ module.enable = function(self)
     end
 
     if h > 0 then
-      return string.format("%dh:%dm", h, m)
+      return string.format("%dh%dm", h, m)
     else
       return string.format("%dm", m)
     end
