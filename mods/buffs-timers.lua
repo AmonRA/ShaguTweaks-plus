@@ -6,7 +6,7 @@ local module = ShaguTweaks:register({
   description = T["Pads hours/minutes, hides zero units, shows seconds under 1 minute, flashes under 10s, and adds color gradients."],
   expansions = { ["vanilla"] = true, ["tbc"] = false },
   maintainer = "@Amon_RA (GitHub)",
-  category = "Buffs & Debuffs",
+  category = T["Buffs & Debuffs"],
   enabled = nil,
 })
 

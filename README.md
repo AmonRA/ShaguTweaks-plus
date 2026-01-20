@@ -21,6 +21,25 @@ For a detailed view of what's new and improved, check out the feature list below
 
 ## Features
 
+### Micromenu Bar
+- **Everlook Broadcasting**  
+  *Right-click the Main Menu button to open TWOW's Everlook Broadcasting Co. Auto-closes after 10 seconds.* 
+
+- **Show Enhanced Micro Menu**  
+  *Hold <CTRL> and <SHIFT> to move from the left or right edge. Press the arrow on the right to conceal the bar. Only works when when Shagu's Reduced actionbar module is enabled. Disable <Show Micro Menu> from ShaguTweaks-extra* 
+
+### Buffs & Debuffs
+- **Smart Timers**  
+  *Pads hours/minutes, hides zero units, shows seconds under 1 minute, flashes under 10s, and adds color gradients.*  
+
+### Unit Frames
+- **Movable Unitframes Extended**  
+  *Party frames, Minimap, Buffs, Weapon Buffs and Debuffs can be moved while Shift and Ctrl are pressed together.*  
+  *Drag the first buff or debuff to move.*
+
+- **Unit Frame Combat Indicator**  
+  *Adds a combat indicator to the target and party frames.*  
+
 ### Action Bar
 - **Gryphons in Front**  
   *Puts the gryphons in front of the action buttons.*
@@ -56,28 +75,5 @@ For a detailed view of what's new and improved, check out the feature list below
   *Left click the clock to toggle the timer, left click the timer to start/pause or right click to reset.*  
   *Hold Ctrl & Shift then drag to move, hold Ctrl & Shift then right click to reset position.*
 
-### Unit Frames
-- **Movable Unitframes Extended**  
-  *Party frames, Minimap, Buffs, Weapon Buffs and Debuffs can be moved while Shift and Ctrl are pressed together.*  
-  *Drag the first buff or debuff to move.*
-
-- **Unit Frame Combat Indicator**  
-  *Adds a combat indicator to the target and party frames.*  
-
-### Buffs & Debuffs
-- **Smart Timers**  
-  *Pads hours/minutes, hides zero units, shows seconds under 1 minute, flashes under 10s, and adds color gradients.*  
-  
-### Micromenu Bar
-- **Everlook Broadcasting**  
-  *Right-click the Game Menu button to open TWOW's Everlook Broadcasting Co. Auto-closes after 10 seconds.* 
-
-- **Concealable Micromenu**  
-  *Hold Ctrl & Shift to move from left/right edge, press arrow to conceal. Only works when when Shagu's Reduced actionbar module is enabled* 
-
-
 ## Credit
 Credit to [shagu](https://github.com/shagu) and [Grylls](https://github.com/GryllsAddons)
-
-
-

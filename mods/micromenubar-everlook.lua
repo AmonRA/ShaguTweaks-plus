@@ -3,10 +3,10 @@ local T  = ShaguTweaks.T
 
 local module = ShaguTweaks:register({
   title = T["Everlook Broadcasting"],
-  description = T["Right-click the Game Menu button to open Everlook Broadcasting Co."],
+  description = T["Right-click the Main Menu button to open TWOW's Everlook Broadcasting Co. Auto-closes after 10 seconds."],
   expansions = { ["vanilla"] = true, ["tbc"] = false },
   maintainer = "@Amon_RA (GitHub)",
-  category = "Micromenu Bar",
+  category = T["Micromenu Bar"],
   enabled = false,
 })
 

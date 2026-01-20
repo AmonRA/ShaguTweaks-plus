@@ -3,7 +3,7 @@
 ## Author: AmonRA
 ## Notes: A collection of tweaks and enhancements to the Default UI
 ## Notes-ruRU: Коллекция настроек и улучшений для стандартного пользовательского интерфейса.
-## Version: 1.0.1
+## Version: 1.0.2
 ## Dependencies: ShaguTweaks
 
 # translations
@@ -19,18 +19,23 @@ locales\translations_zhTW.lua
 # core
 main.lua
 
+# Micromenu Bar
+mods\micromenubar-enhanced.lua
+mods\micromenubar-everlook.lua
+
+# Buffs & Debuffs
+mods\buffs-timers.lua
+
+# Unit Frames
+mods\unitframes-move-unitframes-extended.lua
+mods\unitframes-combat-indicator.lua
+
 # Action Bar
 mods\actionbar-front-gryphons.lua
 mods\actionbar-hide-hotkey.lua
 mods\actionbar-hide-macro.lua
 mods\actionbar-range-color.lua
 mods\actionbar-buffs-to-actionbars.lua
-
-# Social & Chat
-# mods\socialchat-accept-invites.lua
-# mods\socialchat-guildspam.lua
-# mods\socialchat-npcspam.lua
-# mods\socialchat-hide-world-chat.lua
 
 # Tooltip & Items
 mods\tooltipitems-hide-combat-tooltip.lua
@@ -41,14 +46,8 @@ mods\tooltipitems-free-slots.lua
 mods\minimap-framerate-latency.lua
 mods\minimap-timer.lua
 
-# Unit Frames
-mods\unitframes-move-unitframes-extended.lua
-
-# Buffs & Debuffs
-mods\buffs-timers.lua
-
-# Micromenu Bar
-mods\micromenubar-concealed.lua
-mods\micromenubar-everlook.lua
-mods\unitframes-combat-indicator.lua
-
+# Social & Chat
+# mods\socialchat-accept-invites.lua
+# mods\socialchat-guildspam.lua
+# mods\socialchat-npcspam.lua
+# mods\socialchat-hide-world-chat.lua
